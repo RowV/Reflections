@@ -1,0 +1,29 @@
+This is the first file i created in SVC course. I am excited
+to learn the new stuff for my software developement.
+
+How could having easy access to the entire history of a file 
+make you a more efficient programmer in the long term?
+The version control will save the file with different version. So if i do any mistake or 
+go back in time and access that file it will save my time. An di dont have to worry about it
+anymore. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, 
+vs having versions automatically saved, like Google Docs does?
+manual commit is better as it leaves some degree of control on when to commit and commits will be executable.
+Google doc versions are great on the non code files.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+Git saves multiple files when the different files are related to each other. Google doc doesnt have 
+setting for relating the files.
+
+How can you use the commands git log and git diff to view the history of files?
+git log shows all the commits we made whic also dispalys the ID for commit, git diff show the changes in 
+color and shows the added and deleted lines.
+
+How might using version control make you more confident to make changes that could break something?
+reverting with the checkout can jump betwen form different commits without me having to tarck the file personally. 
+It will show the modifications with color which help to debug faster.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I will use it for developing arduino programs.
