@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+After initialisation git metadata is created and it will start keeping track
+of all files in that directory
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+Staging area is part of git and working directory contains the files with latest commit. Repository contains 
+all the history of the files that tracked. 
