@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 Staging area is part of git and working directory contains the files with latest commit. Repository contains 
 all the history of the files that tracked. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+I am not sure what to write excatly.  
