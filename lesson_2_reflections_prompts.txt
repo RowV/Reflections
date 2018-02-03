@@ -9,3 +9,8 @@ all the history of the files that tracked.
 
 How can you use the staging area to make sure you have one commit per logical change?
 I am not sure what to write excatly.  
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+Situations when there is addition of experimental features. and many people are working on same 
+project. 
