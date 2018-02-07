@@ -14,3 +14,6 @@ What are some situations when branches would be helpful in keeping your history 
 How would branches help?
 Situations when there is addition of experimental features. and many people are working on same 
 project. 
+
+How do the diagrams help you visualize the branch structure?
+With daigram one can easily see the structure and visualize the how the development has happened over the time 
