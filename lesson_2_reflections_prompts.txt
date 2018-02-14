@@ -17,3 +17,6 @@ project.
 
 How do the diagrams help you visualize the branch structure?
 With daigram one can easily see the structure and visualize the how the development has happened over the time 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+By merging braches the changes made by different branches are combined together. The daigram represntation help in visualising the commit history and branche  merges.
