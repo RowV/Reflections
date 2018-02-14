@@ -20,3 +20,10 @@ With daigram one can easily see the structure and visualize the how the developm
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 By merging braches the changes made by different branches are combined together. The daigram represntation help in visualising the commit history and branche  merges.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+PROs
+-User approves what 2 merge
+- Full user control
+CONs
+-Time consuming
